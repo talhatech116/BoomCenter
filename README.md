@@ -27,16 +27,18 @@ Application Tracker: Monitor where you’ve applied and interview status
 
 Connection Requests: Grow your professional network (no content clutter)
 
-💬 Real-Time Communication
+💬 Text Chat Feature
 
-Text Chat Feature: Message recruiters, employers, or professional connections directly
+Direct Messaging: Chat with recruiters, employers, or professional contacts
 
-Interview Coordination: Use chat to schedule and follow up on interviews seamlessly
+Interview Coordination: Schedule, confirm, and follow up on interviews
 
-🗺️ Interactive Map Explorer
+Real-Time Communication: Stay connected throughout the hiring process
 
-Location-Based Job Discovery: Browse job listings visually on a map
+🗺️ Map Explorer
 
-Commute Insights: View distance and travel time from your location
+Location-Based Job Discovery: Explore jobs visually with an interactive map
 
-Company Office Locations: See employer presence by city or region
+Commute Insights: Check travel distance and estimated commute time
+
+Company Locations: View office hubs and regional presence of employers
