@@ -6,18 +6,22 @@
 
 ## 🚀 Key Features
 
-### 📄 Job Posting & 🔍 Advanced Search
+### 📄 Job Posting & Hiring Tools
 - **Create & Manage Job Listings:** Employers can post openings in minutes  
 - **Role-Based Filtering:** Jobs organized by category, role, experience level  
 - **Company Profiles:** Showcase employer branding and culture  
-- **Smart Search:** Find jobs by title, location, skills, and company  
-- **Filter & Sort Options:** Customize by salary range, job type, and more  
-- **Saved Jobs & Alerts:** Bookmark positions and get notified about new listings  
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/341694cd-8c5f-45a9-be47-d6045c02c34b" height="500px" />
   <img src="https://github.com/user-attachments/assets/48e3b192-576d-4660-a510-afee146d6fb7" height="500px" />
 </div>
+
+---
+
+### 🔍 Advanced Job Search & Filtering
+- **Smart Search:** Find jobs by title, location, skills, and company  
+- **Filter & Sort Options:** Customize by salary range, job type, and more  
+- **Saved Jobs & Alerts:** Bookmark positions and get notified about new listings  
 
 <div align="center">
   <img src="https://github.com/user-attachments/assets/eb29e42a-3d1d-4bff-b6a2-bbf40528bc8c" height="500px" />
